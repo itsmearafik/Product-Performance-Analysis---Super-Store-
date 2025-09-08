@@ -4,7 +4,7 @@ Exploring Profitability accross products, segments and regions.
 
 ---
 
-!["Landing Page Banner/Image"]()
+!["Landing Page Banner/Image"](https://github.com/itsmearafik/Product-Performance-Analysis---Super-Store-/blob/main/images/dashboard.png)
 
 ## Background
 
@@ -33,6 +33,8 @@ This project is designed to provide valuable insights relevant for decision-maki
 ## Business Needs
 
 ---
+![](https://github.com/itsmearafik/Product-Performance-Analysis---Super-Store-/blob/main/images/profit_by_segment.png)
+
 
 The insights from this project will serve strategic and operational needs as outlined below:
 
@@ -58,7 +60,7 @@ Provide actionable insights to guide pricing, regional targeting, and logistics.
 Empower business managers to optimize strategies for profitability and growth.
 
 ## Key Questions Answered
-
+![](https://github.com/itsmearafik/Product-Performance-Analysis---Super-Store-/blob/main/images/top_profit_products.png)
 ---
 
 * What are the overall sales and profit figures?
@@ -69,6 +71,10 @@ Empower business managers to optimize strategies for profitability and growth.
 * What are the most and least profitable products?
 * Where are we losing money despite high order quantity/product movement?
 * How can shipping and pricing strategies be optimized?
+
+
+![](https://github.com/itsmearafik/Product-Performance-Analysis---Super-Store-/blob/main/images/order_by_ship_mode.png)
+
 
 ## Skills Applied
 
@@ -127,7 +133,7 @@ This approach enabled a comprehensive and flexible exploration of the dataset, e
 ---
 I begin by establishing a baseline understanding of product and sales performance across customer segments, categories, and regions - `what’s working and where do we stand?` We observed, from interacting with the visual, that the the highest demand (order quantity) is in the Consumer segment, with the Technology category, generating the highest sales and profit across the business. This reveals a core strength worth reinforcing through marketing and product focus. Interestingly, while the Home-Office segment records the highest profit, it receives the fewest orders. This suggests an opportunity to scale, by increasing volume without sacrificing profitability.
 
-!["SuperStore Dashboard"]()
+!["Landing Page Banner/Image"](https://github.com/itsmearafik/Product-Performance-Analysis---Super-Store-/blob/main/images/dashboard.png)
 
 However, When we shift attention to the profit patterns, to uncover where we’re at risk, how discounting strategies impacts performance, and what needs attention, it becomes evident that high discount doesn’t always equate to higher profits. Certain product sub-categories, like Tables and Bookcases, despite high order quantity, return little to no profit due to deep discounting. This signals potential issues with pricing strategy or over-reliance on promotions.
 
@@ -167,3 +173,4 @@ This project provided a data-driven overview of sales and profit performance acr
 * Make informed product, pricing, and marketing decisions.
 * Improve profitability through optimized discounting.
 * Align regional strategies based on revenue and profit contribution. Future analysis opportunities include drilling deeper into customer behavior, time series trends, and integrating supply chain cost data for full profitability analysis.
+
